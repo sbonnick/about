@@ -46,6 +46,12 @@
   background-color: white !important;
 }
 
+.split-screen-description {
+  letter-spacing: 0.1em;
+  font-size: 0.5em !important;
+  margin:0 0 40px 0;
+}
+
 /* List-Content Template Styles */
 
 .list-content-concise li {
