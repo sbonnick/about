@@ -1,5 +1,6 @@
 
-## @color[orange](Getting to Know Your Leader)
+
+## @color[#F26225](Getting to Know Your Leader)
 #### Stewart Bonnick
 
 ---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
@@ -10,7 +11,9 @@ Values
 
 @snap[east text-white span-45]
 @ol[split-screen-list](false)
-- Open
+- Transparent
+  - Open to feedback and listening
+  - Will provide feedback
 - Honest
 @olend
 @snapend
