@@ -10,9 +10,11 @@ Values
 @snapend
 
 @snap[east text-white span-55]
+
 1. Transparent
-  + Open to feedback and listening
-  + Will provide feedback 
-1. Honest
-  + something
+  * Open to feedback and listening
+  * Will provide feedback
+2. Honest
+  * something
+
 @snapend
