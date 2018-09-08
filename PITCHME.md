@@ -1,5 +1,5 @@
 
-## Getting to Know Your Leader
+## @color[orange](Getting to Know Your Leader)
 #### Stewart Bonnick
 
 ---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
