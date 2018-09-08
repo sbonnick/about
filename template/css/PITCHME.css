@@ -49,12 +49,6 @@
 
 /* List-Content Template Styles */
 
-.li-nested-item {
-  list-style-type: circle !important;
-  font-size: 0.6em !important;
-  margin:0 0 10px 0 !important;
-}
-
 .list-content-concise li {
   font-size: 1em;
   margin:0 0 10px 0;
