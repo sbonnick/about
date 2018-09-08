@@ -10,7 +10,7 @@ Values
 @snapend
 
 @snap[east text-white span-55]
-@ul[split-screen-list]
+@ul[split-screen-list](false)
 
 - Transparent
   - Open to feedback and listening
