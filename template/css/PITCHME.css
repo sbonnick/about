@@ -49,12 +49,12 @@
 
 /* List-Content Template Styles */
 
-.split-screen-list .li-nested-item {
+.li-nested-item {
   list-style-type: circle !important;
   font-size: 0.6em !important;
 }
 
-.split-screen-list .li-nested-item::before {
+.li-nested-item::before {
   list-style-type: circle !important;
   color: white !important;
   background-color: #FF5600 !important;

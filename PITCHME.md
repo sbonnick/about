@@ -11,14 +11,16 @@ Values
 
 @snap[east text-white span-55]
 @ol[split-screen-list]
-1. Transparent
+
+- Transparent
 
    Open to feedback and listening
    Will provide feedback
 
-2. Honest
+- Honest
 
   something
+  
 @olend
 @snapend
 
