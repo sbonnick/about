@@ -1,7 +1,7 @@
-layout : center-right
-theme : white
+layout : center
+theme : simple
 theme-override: template/css/PITCHME.css
-highlight : ir-black
+highlight : atom-one-dark
 
 transition : none
 published : true
