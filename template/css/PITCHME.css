@@ -41,30 +41,24 @@
   margin:0 0 40px 0;
 }
 
-.split-screen-list li li {
-  font-size: 0.6em;
-  margin:0 0 40px 0;
-}
-
 .split-screen-list li::before {
   color: #FF5600 !important;
   background-color: white !important;
 }
 
-.split-screen-list li li::before {
+
+/* List-Content Template Styles */
+
+.li-nested-item {
+  list-style-type: circle !important;
+  font-size: 0.6em !important;
+}
+
+.li-nested-item::before {
   list-style-type: circle !important;
   color: white !important;
   background-color: #FF5600 !important;
 }
-
-
-
-/* List-Content Template Styles */
-/*
-.li-nested-item {
-  list-style-type: circle !important;
-  font-size: 0.6em !important;
-}*/
 
 .list-content-concise li {
   font-size: 1em;
