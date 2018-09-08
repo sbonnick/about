@@ -15,8 +15,8 @@ Values
 - Transparent
   - Open to feedback and listening
   - Will provide feedback
-- Honest
-  - something
+- Honest </br>
+  @color[blue](something)
 
 @ulend
 @snapend
