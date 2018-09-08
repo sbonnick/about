@@ -11,11 +11,9 @@ Values
 
 @snap[east text-white span-55]
 @ol[](false)
-- Transparent 
-@ul[](false)
+- Transparent
   + Open to feedback and listening
   + Will provide feedback 
-@ulend
 - Honest
 @olend
 @snapend
