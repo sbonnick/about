@@ -1,9 +1,6 @@
 
-@snap[east]
-# About Me
 Stewart Bonnick
-@snapend
-
+## Getting to Know Your Leader
 ---
 
 ### Values
