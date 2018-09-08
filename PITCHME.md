@@ -15,7 +15,7 @@ Values
 - Transparent
   - Open to feedback and listening
   - Will provide feedback
-- Honest </br>
+- Honest </br>  
   @size[0.6em](something)
 
 @ulend
