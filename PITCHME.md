@@ -1,6 +1,7 @@
 
-Stewart Bonnick
 ## Getting to Know Your Leader
+#### Stewart Bonnick
+
 ---
 
 @snap[west split-screen-heading text-orange span-50]
