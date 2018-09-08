@@ -1,5 +1,8 @@
+
+@snap[east]
 # About Me
 Stewart Bonnick
+@snapend
 
 ---
 

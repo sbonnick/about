@@ -1,4 +1,3 @@
-theme-override: assets/scc/PITCHME.css
-transition: none
+theme-override: template/css/PITCHME.css
 code-line-numbers: true
 charts: true
