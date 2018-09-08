@@ -18,3 +18,13 @@ Values
   * something
 
 @snapend
+
+---
+
+## Values
+
+1. Transparent
+  * Open to feedback and listening
+  * Will provide feedback
+2. Honest
+  * something
