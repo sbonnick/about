@@ -16,7 +16,7 @@ Values
   - Open to feedback and listening
   - Will provide feedback
 - Honest </br>
-  @color[blue](something)
+  @size[0.6em](something)
 
 @ulend
 @snapend
