@@ -46,12 +46,12 @@
   margin:0 0 40px 0;
 }
 
-.split-screen-list > li::before {
+.split-screen-list li::before {
   color: #FF5600 !important;
   background-color: white !important;
 }
 
-.split-screen-list > li > li::before {
+.split-screen-list li li::before {
   list-style-type: circle !important;
   color: white !important;
   background-color: #FF5600 !important;
