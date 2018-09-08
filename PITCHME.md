@@ -15,9 +15,8 @@ Values
 - Transparent
   - Open to feedback and listening
   - Will provide feedback
-- Honest</br>@size[0.6em](
-  something
-  )
+- Honest
+  - something
 
 @ulend
 @snapend

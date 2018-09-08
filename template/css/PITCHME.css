@@ -52,6 +52,7 @@
 .li-nested-item {
   list-style-type: circle !important;
   font-size: 0.6em !important;
+  margin:0 0 20px 0;
 }
 
 .list-content-concise li {
