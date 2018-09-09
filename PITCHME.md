@@ -41,11 +41,11 @@ Hobbies
 
 ---?image=template/img/bg/orange.jpg&color=white&position=top&size=100% 30%
 
-@snap[north text-white span-100]
-@size[1.5em](My Job)
+@snap[north headline text-white span-100]
+Leader Responsabilities
 @snapend
 
-@snap[west split-screen-heading about-team-pic]
+@snap[west split-screen-heading text-orange about-team-pic]
 Grow
 @snapend
 
@@ -60,10 +60,11 @@ Grow
 @ulend
 </br>&nbsp;
 </br>&nbsp;
+</br>&nbsp;
 @snapend
 
 
-@snap[east split-screen-heading about-team-pic]
+@snap[east split-screen-heading text-orange about-team-pic]
 Deliver
 @snapend
 
@@ -77,6 +78,7 @@ Deliver
 - Strategic Alignment
 
 @ulend
+</br>&nbsp;
 </br>&nbsp;
 @snapend
 
