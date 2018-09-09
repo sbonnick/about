@@ -62,10 +62,11 @@ Grow
 </br>&nbsp;
 </br>&nbsp;
 </br>&nbsp;
+</br>&nbsp;
 @snapend
 
 
-@snap[east split-screen-byline text-orange about-team-pic]
+@snap[east split-screen-byline text-orange about-team-pic left-align]
 Deliver
 @snapend
 
@@ -79,6 +80,7 @@ Deliver
 - Strategic Alignment
 
 @ulend
+</br>&nbsp;
 </br>&nbsp;
 </br>&nbsp;
 @snapend
