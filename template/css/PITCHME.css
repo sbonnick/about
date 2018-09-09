@@ -102,10 +102,7 @@
 
 .about-team-pic img {
   width: 60%;
-  border: none !important;
-  box-shadow: none !important;
-  -webkit-clip-path: circle(35% at 50% 50%);
-  clip-path: circle(35% at 50% 50%);
+  
 }
 
 .about-team-pic-center img {
