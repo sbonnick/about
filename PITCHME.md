@@ -39,7 +39,7 @@ Hobbies
 @olend
 @snapend
 
----
+---?image=template/img/bg/orange.jpg&color=white&position=top&size=100% 50%
 
 @snap[north text-white span-100]
 @size[1.5em](My Job)
