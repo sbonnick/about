@@ -39,7 +39,7 @@ Hobbies
 @olend
 @snapend
 
----?image=template/img/bg/orange.jpg&color=white&position=top&size=100% 50%
+---?image=template/img/bg/orange.jpg&color=white&position=top&size=100% 30%
 
 @snap[north text-white span-100]
 @size[1.5em](My Job)
@@ -58,6 +58,8 @@ Grow
 - Remove Obsticles
 
 @ulend
+</br>&nbsp;
+</br>&nbsp;
 @snapend
 
 
@@ -75,6 +77,7 @@ Deliver
 - Strategic Alignment
 
 @ulend
+</br>&nbsp;
 @snapend
 
 ---
