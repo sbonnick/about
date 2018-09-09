@@ -3,40 +3,48 @@
 ## @color[#F26225](Getting to Know Your Leader)
 #### Stewart Bonnick
 
----?image=template/img/bg/orange.jpg&position=right&size=60% 100%
+---?image=template/img/bg/orange.jpg&color=white&position=top&size=100% 50%
 
-@snap[west split-screen-heading text-orange span-40]
-Values
+@snap[north split-screen-heading text-white span-100]
+</br>&nbsp;
+Roles and Experiences
 @snapend
 
-@snap[east text-white span-65]
-@ol[split-screen-list](false)
-
-- Transparency & Trust
-- Collaboration & Inclusion
-- Learning & Growth
-- Safe to Fail But Quick to Recover
-- Work to Life Balance
-- Customer First
-
-@olend
+@snap[west about-team-pic span-50 center-align]
+![MagnumSemi](template/img/magnum.png)
 @snapend
 
----?image=template/img/bg/orange.jpg&position=left&size=60% 100%
+@snap[south-west about-team-bio span-50 center-align]
+@ul[](false)
 
-@snap[east split-screen-heading text-orange span-40]
-Hobbies
+- Developer
+- Tester
+- Team Lead
+
+@ulend
+</br>&nbsp;
+</br>&nbsp;
+</br>&nbsp;
+</br>&nbsp;
 @snapend
 
-@snap[west text-white span-65]
-@ol[split-screen-list](false)
 
-- Family
-- Woodworking
-- Hiking
-- Anything on the Water
+@snap[east about-team-pic span-50 center-align]
+![D2L](template/img/d2l.png)
+@snapend
 
-@olend
+@snap[south-east about-team-bio span-50 center-align]
+@ul[](false)
+
+- Tester
+- Developer
+- Operations
+- Team Lead
+- Manager
+
+@ulend
+</br>&nbsp;
+</br>&nbsp;
 @snapend
 
 ---?image=template/img/bg/orange.jpg&color=white&position=top&size=100% 30%
@@ -85,47 +93,56 @@ Deliver
 </br>&nbsp;
 @snapend
 
----?image=template/img/bg/orange.jpg&color=white&position=top&size=100% 50%
 
-@snap[north split-screen-heading text-white span-100]
-</br>&nbsp;
-Roles and Experiences
+---?image=template/img/bg/orange.jpg&position=right&size=60% 100%
+
+@snap[west split-screen-heading text-orange span-40]
+Values
 @snapend
 
-@snap[west about-team-pic span-50 center-align]
-![MagnumSemi](template/img/magnum.png)
+@snap[east text-white span-65]
+@ol[split-screen-list](false)
+
+- Transparency & Trust
+- Collaboration & Inclusion
+- Learning & Growth
+- Safe to Fail But Quick to Recover
+- Work to Life Balance
+- Customer First
+
+@olend
 @snapend
 
-@snap[south-west about-team-bio span-50 center-align]
-@ul[](false)
+---?image=template/img/bg/orange.jpg&position=left&size=60% 100%
 
-- Developer
-- Tester
-- Team Lead
-
-@ulend
-</br>&nbsp;
-</br>&nbsp;
-</br>&nbsp;
-</br>&nbsp;
+@snap[east split-screen-heading text-orange span-40]
+Vices
+@size[0.5em](I'm just bad for it!)
 @snapend
 
+@snap[west text-white span-65]
+@ol[split-screen-list](false)
 
-@snap[east about-team-pic span-50 center-align]
-![D2L](template/img/d2l.png)
+- Horific Spelling & Grammer
+- Thinking Out-Loud
+- 
+
+@olend
 @snapend
 
-@snap[south-east about-team-bio span-50 center-align]
-@ul[](false)
+---?image=template/img/bg/orange.jpg&position=right&size=60% 100%
 
-- Tester
-- Developer
-- Operations
-- Team Lead
-- Manager
+@snap[west split-screen-heading text-orange span-40]
+Hobbies
+@snapend
 
-@ulend
-</br>&nbsp;
-</br>&nbsp;
-</br>&nbsp;
+@snap[east text-white span-65]
+@ol[split-screen-list](false)
+
+- Family
+- Woodworking
+- Hiking
+- Anything on the Water
+
+@olend
 @snapend
