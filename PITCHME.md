@@ -42,6 +42,7 @@ Hobbies
 ---?image=template/img/bg/orange.jpg&color=white&position=top&size=100% 30%
 
 @snap[north split-screen-heading text-white span-100]
+</br>&nbsp;
 Leader Responsabilities
 @snapend
 
@@ -50,7 +51,7 @@ Grow
 @snapend
 
 @snap[south-west about-team-bio]
-@ul[] (false)
+@ul[](false)
 
 - Focus on Personal & Career Growth
 - Provide a Safe Environment
@@ -69,7 +70,7 @@ Deliver
 @snapend
 
 @snap[south-east about-team-bio]
-@ul[] (false)
+@ul[](false)
 
 - Influence Product Vision
 - Deliver on Commits
