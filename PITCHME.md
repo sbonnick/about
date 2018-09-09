@@ -9,7 +9,7 @@
 Values
 @snapend
 
-@snap[east text-white span-55]
+@snap[east text-white span-65]
 @ol[split-screen-list](false)
 
 - Transparent
