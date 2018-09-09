@@ -116,8 +116,8 @@ Values
 ---?image=template/img/bg/orange.jpg&position=left&size=60% 100%
 
 @snap[east split-screen-heading text-orange span-40]
-Vices
-@size[0.5em](I'm just bad for it!)
+Vices</br>
+@size[0.3em](Continous Improvement)
 @snapend
 
 @snap[west text-white span-65]
