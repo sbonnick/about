@@ -121,6 +121,10 @@
   text-align: left !important;
 }
 
+.center-align {
+  text-align: center !important;
+}
+
 /** Wrap-Up Template Styles **/
 
 .contact-name {
