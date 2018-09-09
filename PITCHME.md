@@ -85,10 +85,44 @@ Deliver
 </br>&nbsp;
 @snapend
 
----
+---?image=template/img/bg/orange.jpg&color=white&position=top&size=100% 50%
 
-## Career
+@snap[north split-screen-heading text-white span-100]
+</br>&nbsp;
+Roles and Experiences
+@snapend
 
-- Magnum Semiconductor
-- Autoclave Studios
-- D2L
+@snap[west about-team-pic]
+![MagnumSemi](template/img/magnum.png)
+@snapend
+
+@snap[south-west about-team-bio]
+@ul[](false)
+
+- Title: Senior Test Developer, Team Lead (3 Years)
+- Title: Software Developemnt Manager (2 Years)
+- Roles: Tester, Developer, Operations, leader, manager
+
+@ulend
+</br>&nbsp;
+</br>&nbsp;
+</br>&nbsp;
+</br>&nbsp;
+@snapend
+
+
+@snap[east about-team-pic]
+![D2L](template/img/d2l.png)
+@snapend
+
+@snap[south-east about-team-bio]
+@ul[](false)
+
+- Title: Senior Software Developer, Team Lead (5 years)
+- Roles: Tester, Developer, leader
+
+@ulend
+</br>&nbsp;
+</br>&nbsp;
+</br>&nbsp;
+@snapend
