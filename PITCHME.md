@@ -41,16 +41,16 @@ Hobbies
 
 ---?image=template/img/bg/orange.jpg&color=white&position=top&size=100% 30%
 
-@snap[north headline text-white span-100]
+@snap[north split-screen-heading text-white span-100]
 Leader Responsabilities
 @snapend
 
-@snap[west split-screen-heading text-orange about-team-pic]
+@snap[west split-screen-byline text-orange about-team-pic]
 Grow
 @snapend
 
 @snap[south-west about-team-bio]
-@ul
+@ul[] (false)
 
 - Focus on Personal & Career Growth
 - Provide a Safe Environment
@@ -64,12 +64,12 @@ Grow
 @snapend
 
 
-@snap[east split-screen-heading text-orange about-team-pic]
+@snap[east split-screen-byline text-orange about-team-pic]
 Deliver
 @snapend
 
 @snap[south-east about-team-bio]
-@ul
+@ul[] (false)
 
 - Influence Product Vision
 - Deliver on Commits
