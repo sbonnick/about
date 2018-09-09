@@ -12,8 +12,10 @@ Values
 @snap[east text-white span-65]
 @ol[split-screen-list](false)
 
-- Transparent
-- Honest
+- Transparency & Honesty
+- Learning & Growth
+- Safe to Fail & Quick to Recover
+- Deliver on Commits
 
 @olend
 @snapend
