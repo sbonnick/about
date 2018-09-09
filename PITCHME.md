@@ -116,8 +116,7 @@ Values
 ---?image=template/img/bg/orange.jpg&position=left&size=60% 100%
 
 @snap[east split-screen-heading text-orange span-40]
-Vices</br>
-@size[0.3em](Continous Improvement)
+Continously Improving
 @snapend
 
 @snap[west text-white span-65]
@@ -125,7 +124,7 @@ Vices</br>
 
 - Horific Spelling & Grammer
 - Thinking Out-Loud
-- 
+- Slowing Down
 
 @olend
 @snapend
