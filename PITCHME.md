@@ -119,11 +119,12 @@ Values
 Continously Improving
 @snapend
 
-@snap[west text-white span-55]
+@snap[west text-white span-45]
 @ol[split-screen-list](false)
 
 - Horific Spelling & Grammer
 - Thinking Out-Loud
+- Learning to Slow Down
 
 @olend
 @snapend
