@@ -12,41 +12,57 @@ Values
 @snap[east text-white span-65]
 @ol[split-screen-list](false)
 
-- Transparency & Honesty
-- Coolaboration
+- Transparency & Trust
+- Collaboration & Inclusion
 - Learning & Growth
-- Safe to Fail & Quick to Recover
+- Safe to Fail But Quick to Recover
+- Work to Life Balance
 - Customer First
 
 @olend
 @snapend
 
----
+---?image=template/img/bg/orange.jpg&position=left&size=60% 100%
 
-## Hobbies
+@snap[east split-screen-heading text-orange span-40]
+Hobbies
+@snapend
+
+@snap[west text-white span-65]
+@ol[split-screen-list](false)
 
 - Family
 - Woodworking
 - Hiking
 - Anything on the Water
 
+@olend
+@snapend
+
 ---
 
-# Job
+# My Job 
+#### "what I will do"
 
 ## Grow
 
-- Personal & Career Growth
-- Safe to Fail
-- Build Culture
+- Focus on Personal & Career Growth
+- Provide a Safe Environment
+- Build Culture & Team
 - Remove Obsticles
-- Coolaborate
 
 ## Deliver
 
-- Product Vision
+- Influence Product Vision
 - Deliver on Commits
-- Reduce Dept
+- Reduce Dept and Maintenance
 - Building the Thing Right
+- Strategic Alignment
 
 ---
+
+## Career
+
+- Magnum Semiconductor
+- Autoclave Studios
+- D2L
