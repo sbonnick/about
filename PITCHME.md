@@ -119,12 +119,12 @@ Values
 Continously Improving
 @snapend
 
-@snap[west text-white span-40]
+@snap[west text-white span-55]
 @ol[split-screen-list](false)
 
 - Spelling & Grammer
 - Thinking Out-Loud
-- Learning to Slow Down
+- Slowing Down
 
 @olend
 @snapend
