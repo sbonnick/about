@@ -113,18 +113,17 @@ Values
 @olend
 @snapend
 
----?image=template/img/bg/orange.jpg&position=left&size=60% 100%
+---?image=template/img/bg/orange.jpg&position=left&size=50% 100%
 
-@snap[east split-screen-heading text-orange span-40]
+@snap[east split-screen-heading text-orange span-50]
 Continously Improving
 @snapend
 
-@snap[west text-white span-65]
+@snap[west text-white span-55]
 @ol[split-screen-list](false)
 
 - Horific Spelling & Grammer
 - Thinking Out-Loud
-- Slowing Down
 
 @olend
 @snapend
