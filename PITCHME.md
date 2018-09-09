@@ -113,18 +113,19 @@ Values
 @olend
 @snapend
 
----?image=template/img/bg/orange.jpg&position=left&size=50% 100%
+---?image=template/img/bg/orange.jpg&position=left&size=60% 100%
 
-@snap[east split-screen-heading text-orange span-50]
-Continously Improving
+@snap[east split-screen-heading text-orange span-40]
+Random</br>Things
 @snapend
 
-@snap[west text-white span-55]
+@snap[west text-white span-65]
 @ol[split-screen-list](false)
 
-- Spelling & Grammer
+- Horific Speller
+- Always Making up new words
 - Thinking Out-Loud
-- Beating Bowser in World 8-4
+- "Disc" Type I
 
 @olend
 @snapend
