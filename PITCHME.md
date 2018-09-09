@@ -41,23 +41,41 @@ Hobbies
 
 ---
 
-# My Job 
-#### "what I will do"
+@snap[north text-white span-100]
+@size[1.5em](My Job)
+@snapend
 
-## Grow
+@snap[west split-screen-heading about-team-pic]
+Grow
+@snapend
+
+@snap[south-west about-team-bio]
+@ul
 
 - Focus on Personal & Career Growth
 - Provide a Safe Environment
 - Build Culture & Team
 - Remove Obsticles
 
-## Deliver
+@ulend
+@snapend
+
+
+@snap[east split-screen-heading about-team-pic]
+Deliver
+@snapend
+
+@snap[south-east about-team-bio]
+@ul
 
 - Influence Product Vision
 - Deliver on Commits
 - Reduce Dept and Maintenance
 - Building the Thing Right
 - Strategic Alignment
+
+@ulend
+@snapend
 
 ---
 
