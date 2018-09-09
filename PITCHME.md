@@ -92,11 +92,11 @@ Deliver
 Roles and Experiences
 @snapend
 
-@snap[west about-team-pic]
+@snap[west about-team-pic span-50]
 ![MagnumSemi](template/img/magnum.png)
 @snapend
 
-@snap[south-west about-team-bio]
+@snap[south-west about-team-bio span-50]
 @ul[](false)
 
 - Developer
@@ -111,11 +111,11 @@ Roles and Experiences
 @snapend
 
 
-@snap[east about-team-pic]
+@snap[east about-team-pic span-50]
 ![D2L](template/img/d2l.png)
 @snapend
 
-@snap[south-east about-team-bio]
+@snap[south-east about-team-bio span-50]
 @ul[](false)
 
 - Tester
