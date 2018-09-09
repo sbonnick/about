@@ -99,9 +99,9 @@ Roles and Experiences
 @snap[south-west about-team-bio]
 @ul[](false)
 
-- Title: Senior Test Developer, Team Lead (3 Years)
-- Title: Software Developemnt Manager (2 Years)
-- Roles: Tester, Developer, Operations, leader, manager
+- Developer
+- Tester
+- Team Lead
 
 @ulend
 </br>&nbsp;
@@ -118,8 +118,11 @@ Roles and Experiences
 @snap[south-east about-team-bio]
 @ul[](false)
 
-- Title: Senior Software Developer, Team Lead (5 years)
-- Roles: Tester, Developer, leader
+- Tester
+- Developer
+- Operations
+- Team Lead
+- Manager
 
 @ulend
 </br>&nbsp;
