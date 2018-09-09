@@ -51,7 +51,7 @@ Roles and Experiences
 
 @snap[north split-screen-heading text-white span-100]
 </br>&nbsp;
-Leader Responsabilities
+Leader Responsibilities
 @snapend
 
 @snap[west split-screen-byline text-orange about-team-pic]
@@ -64,7 +64,7 @@ Grow
 - Focus on Personal & Career Growth
 - Provide a Safe Environment
 - Build Culture & Team
-- Remove Obsticles
+- Remove Obstacles
 
 @ulend
 </br>&nbsp;
@@ -122,7 +122,7 @@ Random</br>Things
 @snap[west text-white span-65]
 @ol[split-screen-list](false)
 
-- Horific Speller
+- Horrific Speller
 - Always Making up new words
 - Thinking Out-Loud
 - "Disc" Type I
