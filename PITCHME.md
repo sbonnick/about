@@ -13,19 +13,40 @@ Values
 @ol[split-screen-list](false)
 
 - Transparency & Honesty
+- Coolaboration
 - Learning & Growth
 - Safe to Fail & Quick to Recover
-- Deliver on Commits
+- Customer First
 
 @olend
 @snapend
 
 ---
 
-## Values
+## Hobbies
 
-1. Transparent
-  * Open to feedback and listening
-  * Will provide feedback
-2. Honest
-  * something
+- Family
+- Woodworking
+- Hiking
+- Anything on the Water
+
+---
+
+# Job
+
+## Grow
+
+- Personal & Career Growth
+- Safe to Fail
+- Build Culture
+- Remove Obsticles
+- Coolaborate
+
+## Deliver
+
+- Product Vision
+- Deliver on Commits
+- Reduce Dept
+- Building the Thing Right
+
+---
