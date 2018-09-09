@@ -142,6 +142,7 @@ Hobbies
 - Family
 - Woodworking
 - Hiking
+- Board Games
 - Anything on the Water
 
 @olend
